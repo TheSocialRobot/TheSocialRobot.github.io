@@ -2,6 +2,7 @@
 layout: post
 title: Hello World
 date: 2022-03-20 18:01 +0000
+canonical_url: 'https://www.thesocialrobot.org/posts/hello-world/'
 ---
 
 ![The Robots](/assets/posts/2022-03-20-hello-world/the-robots.jpg)
