@@ -67,6 +67,7 @@ I'll use ROS where it makes sense to use it, but for the initial implementation 
 - it provides a secure transport via SSL/TLS
 - it has a bi-directional streaming  mode so I can use it for body -> brain messages as well as brain -> body messages
 - it supports any languages I might wish to use for the project
+
 There are other messaging solutions I could have used, such as [ZeroMQ](https://zeromq.org/), but for now at least, gRPC appears to provide most of what I want with least effort.
 
 ## Conclusion
