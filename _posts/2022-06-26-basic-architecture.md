@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Basic Architecture
+canonical_url: https://www.thesocialrobot.org/posts/basic-architecture/
 date: 2022-06-26 20:45 +0100
 ---
 
