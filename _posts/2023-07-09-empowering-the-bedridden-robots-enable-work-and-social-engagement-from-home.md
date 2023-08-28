@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Empowering the Bedridden: Robots Enable Work and Social Engagement from Home'
+title: 'Empowering the Bedridden: How Robots Are Changing Lives by Enabling Work and Social Engagement'
 canonical_url: https://www.thesocialrobot.org/posts/empowering-the-bedridden-robots-enable-work-and-social-engagement-from-home/
-date: 2023-07-09 20:45 +0100
+date: 2023-08-27 20:45 +0100
 ---
 
 ## Introduction
@@ -27,39 +27,36 @@ The people who control the robots - The Ory Laboratory refers to them as "pilots
 - mouse-based interface using hands
 - mouse-based interface controlled using mouth
 
-Having to control every movement of a robot using this sort of interface could be cumbersome and tiring so there are a number of pre-defined movements that can be triggered (not clear if pilots can add additional movements). The robots are also capable of following pre-defined paths between known locations which makes navigating between places less hassle.
+Having to control every movement of a robot using this sort of interface could be cumbersome and tiring so there are a number of pre-defined movements that can be triggered (not clear if pilots can add additional movements). The robots are also capable of following pre-defined paths between known locations which makes moving the robots easier for the pilots.
 
-As well as moving about the robot bodies are capable of grasping small objects and have microphones and speakers so that the pilots can communicate with people using either their natural voice (if possible) or a synthesized voice.
+As well as moving about, the robot bodies are capable of grasping small objects and have microphones and speakers so that the pilots can communicate with people using either their natural voice (if possible) or a synthesized voice. The pilots can also change the robots eye colour to show their mood. A tablet or phone-like "name badge" can also be worn by the robots so that customers can learn a bit more about the pilot.
+
 
 ## The cafe
 
 Once disabled people have access to telepresence what should they do? Ory Laboratory's answer is that they can both support themselves via work and develop social contacts. This in achieved not in a lab, but in a cafe.
 
-Whereas other places staffed by robots seem gimmicky - the robots being present more for novelty value or entertainment than utilty - the [Avatar Cafe DAWN ver.β](https://dawn2021.orylab.com/en/) provides a means for disabled people to earn a living and have greater social contact with other people. It also allows able-bodied visitors to talk to the "pilots" and perhaps learn more about what it's like to be permamently cut-off from the world. Hopefully, this will promote empathy and greater understanding of the difficulties faced by heavily disabled people.
+Whereas other places staffed by robots seem gimmicky - the robots being present more for novelty value or entertainment than utilty - the [Avatar Cafe DAWN ver.β](https://dawn2021.orylab.com/en/) provides a means for disabled people to earn a living and have greater social contact with other people. It also allows able-bodied visitors to talk to the "pilots" and perhaps learn more about what it's like to be permamently cut-off from the world. Customers and pilots are actually encouraged to talk. Hopefully, this will promote empathy and greater understanding of the difficulties faced by heavily disabled people.
 
 Fittingly, the cafe also makes provision for visitors who are not able-bodied
 
-The [Avatar Cafe DAWN ver.β](https://dawn2021.orylab.com/en/) in Tokyo is staffed by robots. However, these robots are not controlled by AI, but by people who are unable to leave their own homes. What's more the "pilots" of these robots are paid the standard rate for wait-staff in Japan meaning that they are able to earn a living. As well as movement the robots allow the pilots to speak to customers. The pilots can also change the robots eye colour to show their mood. A table or phone-like "name badge" can also be worn by the robots so that customers can learn a bit more about the pilot. Customers and pilots are encouraged to talk.
-
 ## The robot
 
-The OriHime-D robots that wait tables at the cafe are 120cm tall - the height was chosen to be close to that of a 6 year-old child to make the robot seem unthreatening. The robot has 14 joint motors in the upper body and moves on two omniwheels. The arms are strong enough to hold a 500g bottle when extended
+The OriHime-D robots that wait tables at the cafe are 120cm tall. This height was chosen to be close to that of a 6 year-old child to make the robot seem unthreatening. The robot has 14 joint motors in the upper body and moves on two omniwheels. The arms are strong enough to hold a 500g bottle when extended. Rather than attempt to look human the robots faces are inspired by designs for Japanese Noh masks.
 
-## Controlling the robot
+It's not clear how many OriHime-D robots actually exist or how much they might cost. The Ory Laboratory's website indicates that they are only available for rental.
+
 
 ## Other robot staffed venues
 
-[Robotazia, Milton Keynes, UK](https://www.businessinsider.com/robots-serve-food-robotazia-restaurant-hospitality-human-staff-2021-12)
+There are a few places also staffed by robots. These include the [Robotazia](https://www.businessinsider.com/robots-serve-food-robotazia-restaurant-hospitality-human-staff-2021-12) restaurant that was located in Milton Keynes, UK before it closed. Robotazia used robots both for entertainment and delivering orders. However humans were required to take customer orders. There is also the [Henn na hotel](https://www.theguardian.com/world/2015/jul/16/japans-robot-hotel-a-dinosaur-at-reception-a-machine-for-room-service) in  Nagasaki, Japan. However it sounds like the [robots didn't work very well](https://www.raconteur.net/technology/automation/robot-hotel-ai).
 
-Henn na, hotel, Nagasaki, Japan
-
-
-
-[]()
+Both Robotazia and the Henn na hotel appeared to use robots both for entertainment value and also to perform day-to-day operations. However, the robots were expensive to maintain and, at least at the Henn na, didn't work that well.
 
 ## Find out more
 
-[Avatar Work: Telework for Disabled People Unable to Go Outside by Using Avatar Robots "OriHime-D" and Its Verification](https://arxiv.org/abs/2003.12569)
+You can find out more about the robot, the cafe and pilots by reading this paper: [Avatar Work: Telework for Disabled People Unable to Go Outside by Using Avatar Robots "OriHime-D" and Its Verification](https://arxiv.org/abs/2003.12569)
 
 ## Conclusion
 
+We often hear about robots in the context of human replacement or doomsday scenarios (like the Terminator movies) so it's great to see another example of robots being used for something that seems like a net win for everybody. People unable to leave their homes can earn a living and meet new people. Anyone able to visit the cafe can have the cool experience of being served by robots, and maybe learn more about the lives of people confined to their homes.
